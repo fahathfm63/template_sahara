@@ -76,3 +76,29 @@ nav ul li a{
     outline: none;
 }
 
+/* Right col */
+
+.card{
+    width: 250px;
+    height: 280px;
+    display: inline-block;
+    border-radius: 10px;
+    padding: 15px 25px;
+    margin: 10px 15px;
+    box-sizing: border-box;
+    background-size: cover;
+    background-position: center;
+    transition: 0.5s;
+}
+.card1{
+    background-image: url(/img/01db6984e582409e753d72b8da8dfdbb.jpg); 
+}
+.card2{
+    background-image: url(/img/1f49f1f11e634fd830e9912d95716bc8.jpg); 
+}
+.card3{
+    background-image: url(/img/831335b61a1b5f2f21bb45a62c99c3ff.jpg); 
+}
+.card4{
+    background-image: url(/img/sahara_desert_sand_dunes-wide.jpg); 
+}
