@@ -102,3 +102,20 @@ nav ul li a{
 .card4{
     background-image: url(/img/sahara_desert_sand_dunes-wide.jpg); 
 }
+
+.card:hover{
+    transform: translateY(-10px);
+    border-bottom: 1px solid #ffffff;
+}
+
+.card h5{
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: 15px;
+    text-shadow: 0 0 15px rgb(77, 77, 77);
+}
+.card p{
+    color: #ffffff;
+    font-size: 12px;
+    text-shadow: 0 0 15px rgb(12, 12, 12);
+}
