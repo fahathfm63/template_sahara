@@ -74,6 +74,7 @@ nav ul li a{
     border: 0;
     border-radius: 20px;
     outline: none;
+    cursor: pointer;
 }
 
 /* Right col */
@@ -89,6 +90,7 @@ nav ul li a{
     background-size: cover;
     background-position: center;
     transition: 0.5s;
+    cursor: pointer;
 }
 .card1{
     background-image: url(/img/01db6984e582409e753d72b8da8dfdbb.jpg); 
